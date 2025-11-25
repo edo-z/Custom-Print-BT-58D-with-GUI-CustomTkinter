@@ -170,5 +170,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**GUI Counting Printer BT-58D v1.0** - Built with ❤️ for thermal printer enthusiasts
+**GUI Counting Printer BT-58D v1.0**
 
